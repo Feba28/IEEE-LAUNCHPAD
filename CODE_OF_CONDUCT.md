@@ -1,52 +1,54 @@
-## Step 4:
+# Feba S
 
-<div align="left">
+### About Me
 
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Coders/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-Embark on this step with passion and precision.
-
-Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-</div>
-
-#
-
-
-
-#
-
-:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-> If you're new to editing markdown, you can learn more by following this [Introduction to Markdown ](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
-
+> Recent Computer Science graduate with a strong foundation in Python, Djanjo,SQL,HTML,CSS,JavaScript,Angular and RESTAPI. Passionate about web development and database management. Proven ability to solve complex problems and eager to apply my skills in a real-world setting. Looking forward to joining a dynamic team where I can contribute my knowledge and continue to grow professionally.
 ---
 
-<div aling='center'>
+## My Projects
 
-</div>
+| Name                | Description                                                               |                                                                                  
+|---------------------|---------------------------------------------------------------------------|
+| **E-commerce Fashion Website**        | The proposed project is an online fashion store that caters to men, women, and children. The website will offer a wide range of products including clothing, accessories, and makeup items.The website will be designed with user-friendly navigation and an intuitive interface. Users can browse through the various categories, search for specific items, and view detailed descriptions and images of the products.The website will also offer features such as ‘Add to Cart’ and ‘Add to Wishlist’, allowing users to save their favorite items and purchase them at their convenience.|
+| **Helmet and Triple Ride Detection using Deep Learning**        | This project is used to detect helmetless and triple riders using real time image processing techniques   |    
+| **Hospital Management System**        | used in hospitals   |   
 
 
+#### Leadership and Influence:
 
+- Learder in NSS 
+- Been a part of developer community that hosted large tech event and often meetups.
 
+#### Networking:
 
+- Networking skills through multiple communited partof online and offline in and out of campus
+
+#### Career Plan:
+
+- Work with a great team of developers and work for a good cause
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Kerala has good tech culture and community spread fostering minds and growth of startups.
+
+#### Skills:
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Sql
+- Django
+
+#### History of Community Engagement:
+ 
+- Membeer of IEEE Student Branch in college
+- Student Lead of iEDC in college
+- Led clubs and techinical events in college
+- Member of NSS
+
+  
+#### Competitive Website Profiles:
+
+- Active member on HackerRank .
+---
